@@ -1,0 +1,55 @@
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Приложение для вызова врача.exe.config
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Приложение для вызова врача.exe
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Приложение для вызова врача.pdb
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение для вызова врача.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение для вызова врача.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Form1.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Properties.Resources.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение для вызова врача.csproj.GenerateResource.cache
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение для вызова врача.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение для вызова врача.exe
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение для вызова врача.pdb
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Form2.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\ZstdSharp.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение для вызова врача.csproj.CopyComplete
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Form3.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Form4.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Form5.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Form6.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Form7.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Form8.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\obj\Debug\Приложение_для_вызова_врача.Form9.resources
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Bunifu.Licensing.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\user\Desktop\БД Курсовой проект\Приложение для вызова врача\bin\Debug\Bunifu.UI.WinForms.xml
